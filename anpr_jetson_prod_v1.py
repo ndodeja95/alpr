@@ -19,7 +19,7 @@ from ocr.usdot_extractor import TruckInfoExtractor
 CAMERA_MAC = "00:1A:2B:3C:4D:5E"  # Replace with your camera's MAC address
 RTSP_TEMPLATE = "rtsp://foo:bar@{}:554/cam/realmonitor?channel=4&subtype=0&tcp"
 MOTION_THRESHOLD = 1500
-PAUSE_AFTER_TOGGLE = 10  # Seconds to pause after gate opens
+PAUSE_AFTER_TOGGLE = 60  # Seconds to pause after gate opens
 DETECTION_TICKS = 10
 TICK_INTERVAL = 0.2
 
