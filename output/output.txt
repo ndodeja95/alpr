@@ -3,15 +3,16 @@
     "metadata": {
       "location_id": "Test_Location",
       "box_id": "Test_Camera",
-      "datetime": "2025-02-21T14:39:21.052521"
+      "datetime": "2025-04-12T13:58:14.278864"
     },
     "vehicle_data": {
       "truck_number": "3037",
-      "usdot": "2494361",
-      "vin": "SP874359",
+      "usdot": "N/A",
+      "vin": "N/A",
       "truck_color": "Metallic",
       "trailers": [
-        "TRAILER558"
+        "TRAILER520",
+        "TRAILER229"
       ]
     },
     "model_version": "1.0"
